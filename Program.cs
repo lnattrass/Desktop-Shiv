@@ -178,7 +178,6 @@ namespace desktop_shiv
         }
 
         private const UInt32 WAIT_INFINITE = 0xFFFFFFFF;
-        private const int NORMAL_PRIORITY_CLASS = 0x00000020;
         private const int OPTS_ERROR = 255;
 
         static int Main(string[] args)
