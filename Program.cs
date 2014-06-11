@@ -199,7 +199,7 @@ namespace desktop_shiv
             var p = new OptionSet() {
                 { "n|name=", "The name of the desktop you will run your command in. [Defaults to DesktopShiv]", v => { if (v != null) desktop_name=v; } },
                 { "t|timeout=", "Timeout in seconds waiting for the user to respond on the secondary desktop. [Defaults to INFINITY]", (UInt32 v) => { timeout = v; } },
-                { "h|help", "Show this message and exit", v => show_help = v != null },
+                { "h|?|help", "Show this message and exit", v => show_help = v != null },
                 { "s|suppress", "Dont actually create the alternate desktop. Useful for testing your command_line if necessary.", v => dont_create_desktop = v != null },
                 { "d|debug", "Print debug logging stuff.", v => verbose_flag = v != null },
             };
@@ -348,7 +348,6 @@ namespace desktop_shiv
 
             return iProcessReturnCode;
         }
-
 
         static void ShowHelp(OptionSet p)
         {
