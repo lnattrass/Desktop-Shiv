@@ -1,0 +1,4 @@
+C:\Users\gtkspert\documents\visual studio 2010\Projects\Desktop-Shiv\Desktop-Shiv\bin\Debug\Desktop-Shiv.exe
+C:\Users\gtkspert\documents\visual studio 2010\Projects\Desktop-Shiv\Desktop-Shiv\bin\Debug\Desktop-Shiv.pdb
+C:\Users\gtkspert\documents\visual studio 2010\Projects\Desktop-Shiv\Desktop-Shiv\obj\x86\Debug\Desktop-Shiv.exe
+C:\Users\gtkspert\documents\visual studio 2010\Projects\Desktop-Shiv\Desktop-Shiv\obj\x86\Debug\Desktop-Shiv.pdb
