@@ -33,8 +33,15 @@ Options:
 
 ```
 
+Thanks
+---
+ * [NDesk.Options] - Awesome options parser for C#
+ * [PInvoke] - Interop signatures used to access API's
+
 License
 ---
 Licensed under the [MIT] License
 
 [MIT]:http://opensource.org/licenses/mit-license.php
+[NDesk.Options]:http://www.ndesk.org/Options
+[Pinvoke]:http://pinvoke.net/
